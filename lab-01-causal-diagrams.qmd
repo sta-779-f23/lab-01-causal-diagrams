@@ -1,6 +1,8 @@
 ---
 title: "Lab 01 - Causal Diagrams"
-output: html_document
+format: 
+  html:
+    self-contained: true
 ---
 
 ```{r}
