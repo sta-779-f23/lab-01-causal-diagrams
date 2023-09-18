@@ -1,8 +1,6 @@
 ---
 title: "Lab 01 - Causal Diagrams"
-format: 
-  html:
-    self-contained: true
+format: gfm
 ---
 
 ```{r}
